@@ -5,7 +5,7 @@
 
 - Clone this branch to your local machine
 
-  `git clone -b homes-app-start https://github.com/harshal010710/App-Homes.git`
+  `git clone -b homes-app-start https://github.com/harshal010710/App-Homes.git` 
 
 - Once the code has been downloaded
 
